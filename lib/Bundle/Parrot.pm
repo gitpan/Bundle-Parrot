@@ -1,5 +1,5 @@
 package Bundle::Parrot;
-our $VERSION = '0.4.6_01';
+our $VERSION = '0.4.6_02';
 
 1;
 __END__
@@ -14,16 +14,29 @@ Bundle::Parrot - Bundle of modules required for developing and testing Parrot
 =head1 CONTENTS
 
 Digest::Perl::MD5      1.5
+
+ExtUtils::CBuilder
+
 File::Which            0.05
+
 Module::Build
+
 Parse::RecDescent
+
 Pod::Find
+
 Pod::Simple
+
 Pod::Escapes
+
 Test::Pod
+
 Test::Simple           0.60
+
 Text::Balanced
+
 Test::TAP::HTMLMatrix
+
 Test::Base
 
 =head1 DESCRIPTION

@@ -8,5 +8,5 @@ WriteMakefile(
     PREREQ_PM         => {}, # e.g., Module::Name => 1.1
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM  => 'lib/Bundle/Parrot.pm', # retrieve abstract from module
-       AUTHOR         => 'Jerry Gay a.k.a. particle <jerry.gay@gmail.com>') : ()),
+       AUTHOR         => 'Jerry Gay a.k.a. particle <jerry.gay+cpan@gmail.com>') : ()),
 );
