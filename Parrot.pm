@@ -1,5 +1,5 @@
 package Bundle::Parrot;
-our $VERSION = '0.4.13.1';
+our $VERSION = '0.4.13.2';
 
 1;
 __END__
