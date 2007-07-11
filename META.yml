@@ -1,0 +1,12 @@
+---
+name: Bundle-Parrot
+abstract: Install dependencies for Parrot development
+version: 0.4.13.1
+author:
+ - Jerry Gay a.k.a. particle <jerry.gay+cpan@gmail.com>
+license: perl
+generated_by: Humans
+meta-spec:
+  version: 1.2
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+

@@ -1,4 +1,5 @@
 Makefile.PL
 MANIFEST
+META.yml
 README
 Parrot.pm
