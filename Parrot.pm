@@ -1,5 +1,5 @@
 package Bundle::Parrot;
-our $VERSION = '0.4.13.2';
+our $VERSION = '0.6.3';
 
 1;
 __END__
@@ -21,13 +21,17 @@ File::Which            0.05
 
 Module::Build
 
-Parse::RecDescent
+Perl::Critic
+
+Perl::Critic::Bangs
 
 Pod::Find
 
 Pod::Simple
 
 Pod::Escapes
+
+Test::Harness          3.12
 
 Test::Pod
 
@@ -36,8 +40,6 @@ Test::Simple           0.60
 Text::Balanced
 
 Test::TAP::HTMLMatrix
-
-Test::Base
 
 =head1 DESCRIPTION
 
@@ -49,6 +51,6 @@ Jerry Gay a.k.a. particle, E<lt>jerry.gay+parrot@gmail.comE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2006 The Perl Foundation.  All Rights Reserved.
+Copyright (C) 2006-2008, Parrot Foundation. All Rights Reserved.
 
 =cut
